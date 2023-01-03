@@ -1,6 +1,4 @@
 import PropTypes from 'prop-types';
-// import clsx from 'clsx';
-// import css from './FriendListItem.module.css';
 import {
   Friend,
   FriendStatus,
